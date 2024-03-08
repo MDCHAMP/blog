@@ -19,7 +19,7 @@ $$
 
 ### Cholesky
 
-Cholesky (upper) decomposition is defined for positive-semidefinite matrices.
+Cholesky (lower) decomposition is defined for positive-semidefinite matrices.
 
 $$
 L_A = \text{chol}(A)
